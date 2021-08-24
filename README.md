@@ -1,2 +1,2 @@
-# ahihi
-Containers in pure C.
+# Yet Another Data Structures Library
+Data structures implemented in pure C.
