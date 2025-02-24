@@ -1,1 +1,1 @@
-C header-only libraries for competitive programming.
+Code snippets and header-only libraries in C for competitive programming.
